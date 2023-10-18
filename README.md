@@ -2,6 +2,20 @@
 ## Overview
 The Toto Application is a simple application that allows you to perform CRUD (Create, Read, Update, Delete) operations on a list of items. This application does not use the MVC architecture and consists of two main classes: a controller class and a Beanbag class.
 *** 
+<p align ="center">
+<a href="Java url"> 
+  <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg"/>
+</a>
+<a href="Maven url"> 
+  <img alt="Maven" src="https://img.shields.io/badge/maven-4.0.0-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.4-brightgreen.svg"/>
+</a>
+<a href="Spring Boot url"> 
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+</a>
+
 ## Getting Started
 
 To get started with the Toto Application, follow these steps:
@@ -71,11 +85,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 If you have any questions or need assistance, feel free to contact the project maintainers:
 
-gulshan shukla: [gulshanshukla630@gmail.com](mailto:gulshanshukla630@gmail.com)
+gulshan shukla:[gulshanshukla630@gmail.com](mailto:gulshanshukla630@gmail.com)
 
 
 
 Thank you for using the Toto Application!
+***
 
 
 
