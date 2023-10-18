@@ -73,7 +73,7 @@ Request Body:
  `simply give the id in a pathvariable and set the flag status as true or false what ever you want it simply update the boolean status value of the todo.`
 * Delete an item by ID:
   ``` bash
-  DELETE/delete/todo/id/{id}
+  DELETE/todo/delete/id/{id}
   ```
   ***
  ## Contributing
